@@ -65,7 +65,7 @@ public class PointsParserImpl implements PointsParser{
 		
 		
 		
-		return null;
+		return playersPoints;
 	}
 
 	public String buildURL (String seasson, String day){

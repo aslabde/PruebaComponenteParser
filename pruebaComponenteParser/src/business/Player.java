@@ -1,5 +1,6 @@
 package business;
 
+
 public class Player {
 	
 	private int id;
